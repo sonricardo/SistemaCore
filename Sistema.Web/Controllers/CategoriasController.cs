@@ -13,6 +13,7 @@ namespace Sistema.Web.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    //perro bravo
     public class CategoriasController : ControllerBase
     {
         private readonly DbContextSistema _context;
